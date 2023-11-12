@@ -1,0 +1,12 @@
+
+.courses {
+    margin-top: 2.5rem;
+}
+
+.courses h2 {
+    transition: var(--transition);
+}
+
+.courses h2:hover {
+    color: var(--color-danger);
+}
